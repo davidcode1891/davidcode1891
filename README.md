@@ -1,6 +1,6 @@
 - 👋 Hi, I'm David 
 - 👀 I’m interested in learning more about cybersecurity and software engineering. 
-- 🌱 I’m currently learning Python & SQL.
+- 🌱 I’m currently learning Java & enhancing my skills in Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me? Email: davidmiddleton443@gmail.com
 - 😄 Pronouns: He/Him
